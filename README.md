@@ -1,0 +1,3 @@
+This project is aimed at using data sets from Kaggle, and this data set is maintained by the Jet Propulsion Laboratory of California, an organization under NASA, to run predictions on asteroids to predict each asteroid’s diameter. With this, I will then take my other dataset, which contains the specific GROUPS of asteroid’s (not individual asteroids) to then try to predict and showcase what groups of asteroids lie within the ecliptic, which is another name for a path, just to see what groups lie within our planet’s path. 
+
+*NOTE* The two files, "dataset.csv" and 'Asteriod_Updated.csv" are only snippets here as they are too large to store in Github. However the snippets provide a small example as to what the overall data looks like. 
